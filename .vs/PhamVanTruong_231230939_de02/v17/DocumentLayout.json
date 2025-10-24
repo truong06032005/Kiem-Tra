@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\models\\phamvantruongcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\models\\phamvantruongcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\models\\phamvantruongcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\models\\phamvantruongcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\controllers\\phamvantruonghomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\controllers\\phamvantruonghomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\controllers\\phamvantruongcatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\controllers\\phamvantruongcatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|c:\\users\\pe ve te\\source\\repos\\phamvantruong_231230939_de02\\phamvantruong_231230939_de02\\views\\shared\\_phamvantruonglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEDA3958-6781-45F3-B782-A87D84A4352B}|PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02.csproj|solutionrelative:phamvantruong_231230939_de02\\views\\shared\\_phamvantruonglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhamVanTruongContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Models\\PhamVanTruongContext.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Models\\PhamVanTruongContext.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Models\\PhamVanTruongContext.cs*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Models\\PhamVanTruongContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:57:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Program.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Program.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Program.cs",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:45:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\appsettings.json",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\appsettings.json*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T03:42:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:32:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhamVanTruongCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Models\\PhamVanTruongCatalog.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Models\\PhamVanTruongCatalog.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Models\\PhamVanTruongCatalog.cs*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Models\\PhamVanTruongCatalog.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:20:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhamVanTruongCatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongCatalogController.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongCatalogController.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongCatalogController.cs",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongCatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:18:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_PhamVanTruongLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Views\\Shared\\_PhamVanTruongLayout.cshtml",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Views\\Shared\\_PhamVanTruongLayout.cshtml",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Views\\Shared\\_PhamVanTruongLayout.cshtml*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Views\\Shared\\_PhamVanTruongLayout.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:14:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhamVanTruongHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongHomeController.cs",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongHomeController.cs",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongHomeController.cs*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Controllers\\PhamVanTruongHomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:13:05.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PhamVanTruong_231230939_de02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Pe Ve Te\\source\\repos\\PhamVanTruong_231230939_de02\\PhamVanTruong_231230939_de02\\Views\\_ViewStart.cshtml*",
+              "RelativeToolTip": "PhamVanTruong_231230939_de02\\Views\\_ViewStart.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:12:20.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
